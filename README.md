@@ -1,6 +1,5 @@
 # OBS Scripts
-
-## By Michael Forrest
+By Michael Forrest
 
 ### Automatic Scene Switcher
 
